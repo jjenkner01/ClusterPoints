@@ -25,7 +25,7 @@ changelog=Copying of input layer to memory layer on canvas implemented. Storing 
 # Tags are comma separated with spaces allowed
 tags=grouping, cluster, clustering, machine learning, points, link function, K-means, hierarchical, birch, C-means
 
-homepage=http://jjenkner.com/ClusterPoints
+homepage=https://jjenkner.com.de/ClusterPoints
 category=Analysis
 icon=icon.png
 # experimental flag
